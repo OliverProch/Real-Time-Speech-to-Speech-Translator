@@ -1,6 +1,6 @@
 # Real Time Speech-to-Speech Translator Using Elevenlabs
 
-CAUTION: This is my first coding project. I'm uploading it because I thought it was pretty neat. If you have any feedback, please give it freely :)
+CAUTION: This is my first coding project. I'm uploading it because I thought it was pretty neat. If you have any feedback, please give it freely
 
 Description:
 
